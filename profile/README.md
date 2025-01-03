@@ -1,5 +1,5 @@
 # Order Now 
-convenient, easy-to-use, and user-friendly food ordering platform
+convenient, easy-to-use, and user-friendly food ordering platform and POS system
 
 
 [View product](https://github.com/orgs/NTOU-Order-Now/projects/3)
