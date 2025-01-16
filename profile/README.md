@@ -1,8 +1,11 @@
 # Order Now 
 convenient, easy-to-use, and user-friendly food ordering platform and POS system
 
+**Product link: [https://ntou-order-now.github.io/Order-Now-Frontend/](https://ntou-order-now.github.io/Order-Now-Frontend/)**
 
-[View product](https://github.com/orgs/NTOU-Order-Now/projects/3)
+**Demo video: https://youtu.be/S8ystg2dZkQ?si=6t9EwRlIneqnkOSI**
+
+[View github project](https://github.com/orgs/NTOU-Order-Now/projects/3)
 
 ## Documents
 [SRD](https://docs.google.com/document/d/1cDQtjMbSaG90kuzeX0CxduzchRwdxvLS8CkxThgKghY/edit?tab=t.0)
